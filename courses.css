@@ -1,0 +1,35 @@
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 19px;
+    margin-left: -14px;
+  }
+  li{
+    list-style-type: none;
+  }
+  .form-group{
+    width: 70%;
+  }
+  #catdiv{
+    margin-top: 16px;
+  }
+  #catdiv ul{
+    padding-left: 17px;
+  }
+  #manup{
+    width: 80%;
+  }
+  img{
+    height: 177px;
+  }
+  .nav-item{
+    margin-left: 13px;
+  }
+  #amount{
+    border: none;
+  }
+  /* #range1{
+    margin-left: 22px;
+  } */
+
+ 
